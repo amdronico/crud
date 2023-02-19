@@ -1,2 +1,2 @@
 # crud
-Código de prueba para realziar un crud
+Código de prueba para realizar un crud
